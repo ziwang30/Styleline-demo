@@ -4,6 +4,9 @@ This repository provides access to the live demo and a brief description of the 
 
 🔗 **Live Demo**: [https://ziwa.pythonanywhere.com](https://ziwa.pythonanywhere.com)
 
+      Test account: ziwa
+      Test password: ziwa123
+
 > **Note:** The source code is not publicly available at this time due to publication restrictions. If you are a reviewer or researcher interested in collaboration or further details, please feel free to reach out.
 
 ---
